@@ -1,9 +1,35 @@
 {
 	"name": "Naruto Theme",
-	"type": "light",
+	"type": "dark",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333333"
+		"editor.background": "#2c2d39",
+		"editor.foreground":  "#0b1679",
+		"scrollbarSlider.activeBackground": "#d12121",
+		"scrollbarSlider.hoverBackground": "#d12121",
+		"scrollbarSlider.background": "#fea22d",
+		"progressBar.background": "#d12121",
+		"scrollbar.shadow": "#fea22d",
+		"button.background": "#d12121",
+		"editorRuler.foreground": "#d12121",
+		"activityBar.border": "#fe1212",
+		"activityBar.foreground": "#fff",
+		"activityBar.background":  "#0b1679",
+		"activityBar.inactiveForeground": "#bbbdcf",
+		"activityBarBadge.background": "#fe1212",
+		"list.activeSelectionBackground": "#fe1212",
+		"list.hoverBackground": "#fea22d",
+		"list.inactiveSelectionBackground": "#fbdeaa",
+		"list.inactiveFocusBackground": "#b8b7b4",
+		"sideBar.background": "#fea22d",
+		"sideBar.foreground": "#240303",
+		"sideBar.border": "#425eed",
+		"sideBarTitle.foreground":"#270707",
+		"sideBar.dropBackground": "#fe1212",
+		"sideBarSectionHeader.background": "#0b1679",
+		"sideBarSectionHeader.foreground": "#f5f5f5",
+		"sideBarSectionHeader.border": "#425eed",
+		"editorIndentGuide.background": "#240303",
+		"fontFamily": "'Ninja Naruto', Arial"
 	},
 	"tokenColors": [
 		{
@@ -32,7 +58,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#c1f2c5",
 			}
 		},
 		{
@@ -56,7 +82,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#a3b7f2"
 			}
 		},
 		{
@@ -87,7 +113,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#f2d6b3"
 			}
 		},
 		{
@@ -98,7 +124,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#d27d7d"
 			}
 		},
 		{
@@ -110,7 +136,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#ca85f6"
 			}
 		},
 		{
@@ -142,7 +168,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#b4c6b4"
 			}
 		},
 		{
@@ -406,7 +432,7 @@
 			"name": "Extra: Diff To",
 			"scope": "meta.diff.header.to-file",
 			"settings": {
-				"foreground": "#434343"
+				"foreground": "#200202"
 			}
 		}
 	]
