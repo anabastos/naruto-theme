@@ -1,0 +1,21 @@
+{
+    "name": "naruto-theme",
+    "displayName": "naruto-theme",
+    "description": "Naruto Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Naruto Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Naruto Theme-color-theme.json"
+            }
+        ]
+    }
+}
