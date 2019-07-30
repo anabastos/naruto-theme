@@ -1,10 +1,10 @@
-![theme sample](image.png)
->  THE NINJA WAY OF USING VSCODE
+# 🍥 Naruto VSCode Theme 🍥
 
-#🍥 Naruto VsCode Theme 🍥
+![theme sample](image.png)
+> ✬ The ninja way of using VSCode
 
 ## How to install
-clone the project in the vscode extension directory. This is:
+Clone the project in the vscode extension directory. This is:
 - on Windows %USERPROFILE%\.vscode\extensions
 - on Mac/Linux $HOME/.vscode/extensions
 
