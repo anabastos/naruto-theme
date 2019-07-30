@@ -2,6 +2,7 @@
 	"name": "Naruto",
 	"type": "dark",
 	"colors": {
+		"editor.fontFamily": "'Ninja Naruto', Menlo, Monaco, 'Courier New', monospace",
 		"editor.background": "#2b2a26",
 		"editor.selectionBackground": "#2c2d39e7",
 		"editor.foreground": "#fff",
@@ -63,7 +64,6 @@
 		"sideBarSectionHeader.foreground": "#f5f5f5",
 		"sideBarSectionHeader.border": "#425eed",
 		"editorIndentGuide.background": "#240303",
-		// "editor.fontFamily": "'Ninja Naruto', Arial"
 	},
 	"tokenColors": [
 		{
