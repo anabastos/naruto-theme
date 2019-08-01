@@ -3,7 +3,7 @@
 ![theme sample](image.png)
 > ✬ The ninja way of using VSCode
 
-##1. Install font
+## 1. Install font
 
 Install the [Ninja Naruto](https://www.dafont.com/ninja-naruto.font) font
 
@@ -20,8 +20,8 @@ Add this line to your workspace settings json.
 
 ## 2. Install Theme
 Clone the project in the vscode extension directory. This is:
-- on Windows %USERPROFILE%\.vscode\extensions
-- on Mac/Linux $HOME/.vscode/extensions
+- on Windows `%USERPROFILE%\.vscode\extensions`
+- on Mac/Linux `$HOME/.vscode/extensions`
 
 ```bash
 git clone https://github.com/anabastos/naruto-theme.git
