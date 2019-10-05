@@ -27,5 +27,5 @@ Clone the project in the vscode extension directory. This is:
 git clone https://github.com/anabastos/naruto-theme.git
 ```
 
-# 3. Dattebayo! 👍
+## 3. Dattebayo! 👍
 Restart VSCode and select the new theme in File -> Preferences -> Color Theme
